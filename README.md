@@ -18,6 +18,6 @@ Then, subsequently add cities with some connections and adjacent cities to build
 
 >For example, Ventura-SantaBarbara(27.4),LosAngeles(67.7),LongBeach(93.5)
 
-Program should be able to run from there and produce the shortest path. :) enjoy!
+Program should be able to run from there and produce the shortest path by inputting into the command line. :) enjoy!
 
 
